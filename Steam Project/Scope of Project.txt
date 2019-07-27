@@ -19,3 +19,7 @@ Are those games free to play or purchase
 Are those games that are free played more or purchased
 
 
+
+After analyzine the data, these were the conclusions gained:
+
+People prefer to spend more time playing free games; these free games usually have in-game purchases or downloadable content. The top two games that were popular/played on Steam were Dota2 and Team Fortress. These two games are multiplayer games suggesting that people like to play with friends rather than single player. The other piece of information we gained by analzying the data was that these games do not require expensive computers to play the game.  
