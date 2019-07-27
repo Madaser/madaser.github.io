@@ -1,0 +1,23 @@
+CREATE TABLE mostplayedgames2 (
+  gameid INT NOT NULL,
+  gamename TEXT NOT NULL,
+  gamehours INT NOT NULL
+);
+
+CREATE TABLE steamrecs2(
+  gamename TEXT NOT NULL,
+  metacritic TEXT NOT NULL,
+reccount TEXT NOT NULL,
+IsFree TEXT NOT NULL,
+PCRECs TEXT NOT NULL,
+PriceTEXT TEXT NOT NULL
+);
+
+CREATE TABLE publisherdata2(
+  gamename TEXT NOT NULL,
+  developers TEXT NOT NULL,
+publisher TEXT NOT NULL,
+popular_tags TEXT NOT NULL,
+minreqs TEXT NOT NULL,
+price TEXT NOT NULL
+);
