@@ -1,0 +1,2 @@
+app.py and scrape_costa.py are the two codes necessary plus the index in templates code
+Run app.py and then the index can load the website. The scrape costa code is how you would scrape the info from the website. 
