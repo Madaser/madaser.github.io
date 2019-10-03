@@ -1,0 +1,10 @@
+The untitled python files contains all of the code for the machine learning.
+Matplotlib, pandas, numpy, tensorflow, decisiontree/random forest, KNN were the methods mostly used to complete this project
+Additional libraries were needed at times for data analysis such as the confusion matrix
+
+Project Goals:
+
+Can we detect breast cancer using machine learning?
+Can we do this with such success to minimize false positives and false negatives?
+Can we analze what the machine thinks are the most important features that correlate to a tumor being malignant?
+Which method of machine learning would be the most useful, in terms of specificity, sensitivity, and PPV?
